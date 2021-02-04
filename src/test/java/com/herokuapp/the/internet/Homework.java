@@ -27,6 +27,7 @@ public class Homework {
 		String url = "https://the-internet.herokuapp.com/login";
 		CHK.get(url);
 		System.out.println("Page is opened");
+		System.out.println("Update");
 		Sleep();
 		
 		//enter username
